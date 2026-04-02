@@ -13,10 +13,7 @@
       "Bash(npx prettier*)",
       "Bash(git *)"
     ],
-    "deny": [
-      "Bash(rm -rf*)",
-      "Edit(.env*)"
-    ]
+    "deny": ["Bash(rm -rf*)", "Edit(.env*)"]
   },
   "env": {
     "MAX_THINKING_TOKENS": "10000",
